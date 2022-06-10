@@ -12,7 +12,7 @@ upper = \relative c' {
 
   \tempo 4=60
 
-  <d g>16\p\<^( b <d g> b  <fis' a> d <g b> d | <a' c> e <g e'> e\!\> <a d> e <a c> e | <g b> d <d g> b <d fis a> c <d fis a> c\!) | <b d g>8\staccato <b d g>8\staccato <b d g>8 r\staccato \bar "|."
+  <d g>16\p\<^( b <d g> b  <fis' a> d <g b> d | <a' c> e <g e'> e\!\> <a d> e <a c> e | <g b> d <d g> b <d fis a> c <d fis a> c\!) | <b d g>8\staccato <b d g>8\staccato <b d g>8\staccato r \bar "|."
 }
 
 lower = \relative c {
